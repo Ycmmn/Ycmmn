@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-```python
+
 class AIResearcher:
     def __init__(self):
         self.name = "Yasaman Soleimani"
@@ -36,7 +36,7 @@ class AIResearcher:
             "domains": ["Medical Imaging", "AI Automation", "Knowledge Systems"],
             "development": ["Production AI", "MLOps", "API Design"]
         }
-```
+
 
 > **🎯 Mission:** Bridging the gap between cutting-edge AI research and real-world applications that make a meaningful impact on society.
 
