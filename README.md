@@ -212,17 +212,6 @@ mindmap
 
 ---
 
-<div align="center">
-
-### 💭 Philosophy
-
-*"Intelligence is not just about learning — it's about creating something meaningful that enhances human life."*
-
-### ⚡ Fun Fact
-
-When I'm not training neural networks, I'm exploring the intersection of AI and medicine to build systems that can save lives and improve healthcare outcomes.
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=14,15,16,17,18&section=footer" />
 
