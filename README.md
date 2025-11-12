@@ -1,9 +1,57 @@
-<h1 align="center">Hi 👋, I'm Yabix</h1>
-<h3 align="center"># 👋 Hi, I'm Yabix 🎓 **Computer Engineering Student | AI & Deep Learning Researcher | Medical AI Enthusiast** I'm passionate about building intelligent systems that bridge the gap between **AI research** and **real-world applications**, especially in **medical imaging** and **automation**. 💡 I’ve worked with technologies like: - **Python**, **TensorFlow**, **Keras**, **PyTorch**, **OpenCV**, **Hugging Face** - **Kubernetes**,**Streamlit**, **Docker**, **FastAPI**, **n8n**, **AI Agents**, and **API integration** 🧠 My interests include: - Deep Learning (CNNs, RNNs, Transformers) - Computer Vision and Medical Image Analysis - Intelligent Assistants and Knowledge Retrieval Systems (RAG-based) - AI Automation and Smart Data Systems 💼 **Projects I’ve worked on:** - Developing **AI-driven solutions** for **data automation** and **intelligent cataloging** at a knowledge-based company - Building smart assistants and data-driven tools using **Streamlit**, **n8n**, and **API-based AI agents** - Experimenting with **Neural Network architectures** and **transfer learning** for applied AI research 📚 **Certifications:** - Harvard University — *(CS50x, CS50p & CS50 AI)* 🌱 **My goal:** To grow as an **AI Researcher** and contribute to meaningful projects that enhance decision-making, efficiency, and human life through artificial intelligence. 📫 **Let’s connect!** - [Telegram](https://t.me/Ycmmn) - ✉️ Yasa.aidv@gmail.com</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#00BFA6">Yasaman Soleimani</span></h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+🎓 Computer Engineering Student &nbsp;|&nbsp; 🧠 AI & Deep Learning Researcher &nbsp;|&nbsp; 🩺 Medical AI Enthusiast
 </p>
+
+---
+
+### 🧩 About Me  
+I'm passionate about building **intelligent systems** that bridge the gap between **AI research** and **real-world applications**, especially in **medical imaging** and **automation**.  
+
+I enjoy exploring the science behind AI models and turning them into **real, working products** that make life easier and smarter.
+
+---
+
+### ⚙️ Tech Stack & Tools  
+💻 **Languages & Frameworks:**  
+`Python` · `TensorFlow` · `Keras` · `PyTorch` · `OpenCV` · `Hugging Face`  
+
+🧰 **Development Tools:**  
+`Streamlit` · `Docker` · `FastAPI` · `n8n` · `AI Agents` · `API Integration`  
+
+---
+
+### 🚀 Projects I've Worked On  
+- 🧩 **AI-driven solutions** for **data automation** and **intelligent cataloging** at a knowledge-based company  
+- 🤖 Smart assistants and automation systems using **Streamlit**, **n8n**, and **custom AI APIs**  
+- 🧠 Experimenting with **Neural Network architectures**, **Transfer Learning**, and **Transformers** for applied AI research  
+
+---
+
+### 🎓 Certifications  
+📘 **Harvard University:**  
+`CS50x` · `CS50p` · `CS50 AI`  
+
+---
+
+### 🌱 Current Focus  
+🔬 Expanding my research in **Deep Learning**, **Medical AI**, and **Knowledge Retrieval Systems (RAG)**.  
+My long-term goal is to grow as an **AI Researcher** and build intelligent technologies that improve decision-making and human life.  
+
+---
+
+### 📫 Let's Connect  
+<p align="center">
+  <a href="mailto:Yasa.aidv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+✨ “Intelligence is not just about learning — it's about creating something meaningful.” ✨  
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
