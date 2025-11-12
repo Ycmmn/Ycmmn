@@ -1,6 +1,7 @@
 <div align="center">
 
-#  Yabix
+# Yabix
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=AI+Researcher+%26+Developer;Deep+Learning+Specialist;Medical+AI+Innovator;Building+Intelligent+Systems)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,12,20&text=AI%20%7C%20ML%20%7C%20DL&fontSize=50&fontAlignY=35&animation=fadeIn" />
@@ -13,10 +14,11 @@
 
 </div>
 
+---
 
 ## 🚀 About Me
 
-
+```python
 class AIResearcher:
     def __init__(self):
         self.name = "Yasaman Soleimani"
@@ -35,7 +37,7 @@ class AIResearcher:
             "domains": ["Medical Imaging", "AI Automation", "Knowledge Systems"],
             "development": ["Production AI", "MLOps", "API Design"]
         }
-
+```
 
 > **🎯 Mission:** Bridging the gap between cutting-edge AI research and real-world applications that make a meaningful impact on society.
 
