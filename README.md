@@ -1,10 +1,10 @@
 <div align="center">
 
-#  Yabix
+# 🧠 Yasaman Soleimani
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=AI+Researcher+%26+Developer;Deep+Learning+Specialist;Medical+AI+Innovator;Building+Intelligent+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=AI+Researcher+%26+Developer;Deep+Learning+Specialist;Medical+AI+Innovator;Building+Intelligent+Systems)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,12,20&text=AI%20%7C%20ML%20%7C%20DL&fontSize=50&fontAlignY=35&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=14,15,16,17,18&text=AI%20%7C%20ML%20%7C%20DL&fontSize=50&fontAlignY=35&animation=fadeIn" />
 
 ### 🎓 Computer Engineering • 🔬 AI Researcher • 🏥 Medical AI Specialist
 
@@ -133,11 +133,11 @@ class AIResearcher:
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ycmmn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFA6&icon_color=00BFA6&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ycmmn&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFA6&fire=00BFA6&currStreakLabel=00BFA6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ycmmn&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=E0AAFF&text_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ycmmn&theme=radical&hide_border=true&background=0D1117&ring=C77DFF&fire=E0AAFF&currStreakLabel=C77DFF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycmmn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFA6&text_color=ffffff" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ycmmn&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFA6&line=00BFA6&point=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycmmn&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=ffffff" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ycmmn&theme=react-dark&hide_border=true&bg_color=0D1117&color=C77DFF&line=E0AAFF&point=ffffff" />
 
 </div>
 
@@ -199,6 +199,66 @@ mindmap
 
 ---
 
+## 💼 Professional Experience
+
+```yaml
+current_role:
+  title: "AI Solutions Developer"
+  company: "Knowledge-Based Technology Company"
+  focus:
+    - AI-driven automation systems
+    - Intelligent data cataloging
+    - Smart assistants development
+    - API integration & deployment
+
+expertise_areas:
+  - Medical AI research and development
+  - Deep Learning model design and optimization
+  - Production ML system architecture
+  - AI automation and workflow orchestration
+```
+
+---
+
+## 📈 Skill Proficiency
+
+<div align="center">
+
+> *"Learning never stops - every day brings new challenges and growth"*
+
+| Skill Domain | Proficiency |
+|--------------|-------------|
+| **Deep Learning** | ![](https://geps.dev/progress/90?dangerColor=C77DFF&warningColor=E0AAFF&successColor=C77DFF) |
+| **Python Development** | ![](https://geps.dev/progress/95?dangerColor=C77DFF&warningColor=E0AAFF&successColor=C77DFF) |
+| **Computer Vision** | ![](https://geps.dev/progress/85?dangerColor=C77DFF&warningColor=E0AAFF&successColor=C77DFF) |
+| **NLP & Transformers** | ![](https://geps.dev/progress/80?dangerColor=C77DFF&warningColor=E0AAFF&successColor=C77DFF) |
+| **MLOps & Deployment** | ![](https://geps.dev/progress/88?dangerColor=C77DFF&warningColor=E0AAFF&successColor=C77DFF) |
+| **API Development** | ![](https://geps.dev/progress/92?dangerColor=C77DFF&warningColor=E0AAFF&successColor=C77DFF) |
+
+*📚 Constantly evolving and learning - these numbers represent a moment in continuous growth*
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate!
+
+<div align="center">
+
+I'm always interested in collaborating on:
+- 🏥 Medical AI and Healthcare Innovation projects
+- 🧠 Deep Learning research and applications
+- 🤖 AI automation and intelligent systems
+- 📚 Open-source AI/ML projects
+
+**Feel free to reach out if you want to:**
+- Discuss AI research and innovations
+- Collaborate on meaningful projects
+- Share knowledge and learn together
+
+</div>
+
+---
 
 ## 📫 Connect With Me
 
@@ -218,11 +278,16 @@ mindmap
 
 *"Intelligence is not just about learning — it's about creating something meaningful that enhances human life."*
 
+### ⚡ Fun Fact
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,12,20&section=footer" />
+When I'm not training neural networks, I'm exploring the intersection of AI and medicine to build systems that can save lives and improve healthcare outcomes.
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=14,15,16,17,18&section=footer" />
 
 **Thanks for visiting! Let's build the future of AI together.** 🚀
 
-![](https://komarev.com/ghpvc/?username=ycmmn&color=00BFA6&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ycmmn&color=C77DFF&style=for-the-badge)
 
 </div>
