@@ -171,6 +171,7 @@ class AIResearcher:
 ## 🌱 Current Research & Focus
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#FFB6C1','primaryTextColor':'#fff','primaryBorderColor':'#FF69B4','lineColor':'#FF1493','secondaryColor':'#FFC0CB','tertiaryColor':'#FFE5F1','background':'#1a1a1a','mainBkg':'#FFB6C1','secondBkg':'#FFC0CB','tertiaryBkg':'#FFE5F1','nodeBorder':'#FF69B4','clusterBkg':'#FFE5F1','clusterBorder':'#FF69B4','titleColor':'#FF1493','edgeLabelBackground':'#FFE5F1','nodeTextColor':'#ffffff'}}}%%
 mindmap
   root((AI Research))
     Medical AI
