@@ -224,14 +224,18 @@ expertise_areas:
 
 <div align="center">
 
+> *"Learning never stops - every day brings new challenges and growth"*
+
 | Skill Domain | Proficiency |
 |--------------|-------------|
-| **Deep Learning** | ![](https://geps.dev/progress/95?dangerColor=00BFA6&warningColor=00BFA6&successColor=00BFA6) |
+| **Deep Learning** | ![](https://geps.dev/progress/90?dangerColor=00BFA6&warningColor=00BFA6&successColor=00BFA6) |
 | **Python Development** | ![](https://geps.dev/progress/95?dangerColor=00BFA6&warningColor=00BFA6&successColor=00BFA6) |
-| **Computer Vision** | ![](https://geps.dev/progress/90?dangerColor=00BFA6&warningColor=00BFA6&successColor=00BFA6) |
-| **NLP & Transformers** | ![](https://geps.dev/progress/85?dangerColor=00BFA6&warningColor=00BFA6&successColor=00BFA6) |
-| **MLOps & Deployment** | ![](https://geps.dev/progress/85?dangerColor=00BFA6&warningColor=00BFA6&successColor=00BFA6) |
-| **API Development** | ![](https://geps.dev/progress/90?dangerColor=00BFA6&warningColor=00BFA6&successColor=00BFA6) |
+| **Computer Vision** | ![](https://geps.dev/progress/85?dangerColor=00BFA6&warningColor=00BFA6&successColor=00BFA6) |
+| **NLP & Transformers** | ![](https://geps.dev/progress/80?dangerColor=00BFA6&warningColor=00BFA6&successColor=00BFA6) |
+| **MLOps & Deployment** | ![](https://geps.dev/progress/88?dangerColor=00BFA6&warningColor=00BFA6&successColor=00BFA6) |
+| **API Development** | ![](https://geps.dev/progress/92?dangerColor=00BFA6&warningColor=00BFA6&successColor=00BFA6) |
+
+*📚 Constantly evolving and learning - these numbers represent a moment in continuous growth*
 
 </div>
 
