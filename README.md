@@ -1,84 +1,289 @@
-<!-- 🌟 Hero Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0C7B93,100:00BFA6&text=Yasaman%20Soleimani%20🚀&fontAlignY=40&fontSize=40&fontColor=ffffff&animation=twinkling" />
-</p>
+<div align="center">
 
-<h1 align="center">👋 Hi, I'm <span style="color:#00BFA6">Yasaman Soleimani</span></h1>
+# 🧠 Yasa
 
-<p align="center">
-🎓 Computer Engineering Student &nbsp;|&nbsp; 🧠 AI & Deep Learning Researcher &nbsp;|&nbsp; 🩺 Medical AI Enthusiast
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=AI+Researcher+%26+Developer;Deep+Learning+Specialist;Medical+AI+Innovator;Building+Intelligent+Systems)](https://git.io/typing-svg)
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,12,20&text=AI%20%7C%20ML%20%7C%20DL&fontSize=50&fontAlignY=35&animation=fadeIn" />
 
-### 🧩 About Me  
-I'm passionate about building **intelligent systems** that bridge the gap between **AI research** and **real-world applications**, especially in **medical imaging** and **automation**.  
+### 🎓 Computer Engineering • 🔬 AI Researcher • 🏥 Medical AI Specialist
 
-I love exploring the science behind AI models and turning them into **real-world intelligent solutions** that make technology more useful and meaningful.
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ycmmn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yasa.aidv@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/ycmmn?style=for-the-badge&logo=github&logoColor=white&color=00BFA6)](https://github.com/ycmmn)
+
+</div>
 
 ---
 
-### ⚙️ Tech Stack & Tools  
-💻 **Languages & Frameworks:**  
-`Python` · `TensorFlow` · `Keras` · `PyTorch` · `OpenCV` · `Hugging Face`  
+## 🚀 About Me
 
-🧰 **Development Tools:**  
-`Streamlit` · `Docker` · `FastAPI` · `n8n` · `AI Agents` · `API Integration`  
+```python
+class AIResearcher:
+    def __init__(self):
+        self.name = "Yasaman Soleimani"
+        self.role = "AI Researcher & Deep Learning Engineer"
+        self.passions = [
+            "Medical AI & Healthcare Innovation",
+            "Neural Networks & Deep Learning",
+            "Intelligent Automation Systems",
+            "Computer Vision & NLP"
+        ]
+        self.current_focus = "Building AI that enhances human life"
+    
+    def expertise(self):
+        return {
+            "research": ["Deep Learning", "Transfer Learning", "Transformers"],
+            "domains": ["Medical Imaging", "AI Automation", "Knowledge Systems"],
+            "development": ["Production AI", "MLOps", "API Design"]
+        }
+```
 
----
-
-### 🚀 Projects I've Worked On  
-- 🧩 **AI-driven solutions** for **data automation** and **intelligent cataloging** at a knowledge-based company  
-- 🤖 Smart assistants and automation systems using **Streamlit**, **n8n**, and **custom AI APIs**  
-- 🧠 Experimenting with **Neural Network architectures**, **Transfer Learning**, and **Transformers** for applied AI research  
-
----
-
-### 🎓 Certifications  
-📘 **Harvard University:**  
-`CS50x` · `CS50p` · `CS50 AI`  
-
----
-
-### 🌱 Current Focus  
-🔬 Expanding my research in **Deep Learning**, **Medical AI**, and **Knowledge Retrieval Systems (RAG)**.  
-My goal is to grow as an **AI Researcher** and build technologies that enhance human life through intelligence and automation.  
-
----
-
-### 📫 Let's Connect  
-<p align="center">
-  <a href="https://www.linkedin.com/in/ycmmn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ycmnnsoleymnni@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+> **🎯 Mission:** Bridging the gap between cutting-edge AI research and real-world applications that make a meaningful impact on society.
 
 ---
 
-<h3 align="center">✨ “Intelligence is not just about learning — it's about creating something meaningful.” ✨</h3>
+## 💡 Core Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 AI & Machine Learning
+- 🔬 **Deep Learning Architecture Design**
+- 🎯 **Transfer Learning & Fine-tuning**
+- 🤖 **Transformers & Attention Mechanisms**
+- 📊 **Computer Vision & Image Processing**
+- 💬 **Natural Language Processing**
+- 🏥 **Medical AI & Healthcare Applications**
+
+</td>
+<td width="50%">
+
+### ⚙️ Engineering & Development
+- 🚀 **Production ML Systems**
+- 🐳 **Docker & Kubernetes**
+- 🌐 **FastAPI & RESTful APIs**
+- 🔄 **AI Automation (n8n, Agents)**
+- 📈 **Data Pipeline Engineering**
+- 🛠️ **MLOps & Model Deployment**
+
+</td>
+</tr>
+</table>
 
 ---
 
-<h3 align="left">🧰 Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-</p>
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Core AI/ML Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+
+### Computer Vision & NLP
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+
+### Development & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Data & Databases
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ycmmn&theme=tokyonight&hide_border=true" alt="Yasaman's GitHub Streak" />
-</p>
+## 🏆 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏥 **Medical AI Diagnostic System** | Deep learning models for medical image analysis and disease detection | PyTorch, TensorFlow, OpenCV |
+| 🤖 **Intelligent Automation Platform** | AI-driven data processing and cataloging system | Streamlit, FastAPI, n8n, AI Agents |
+| 🧠 **Neural Architecture Research** | Experimenting with custom architectures and transfer learning | PyTorch, Transformers, Hugging Face |
+| 📚 **RAG Knowledge System** | Advanced retrieval-augmented generation for knowledge management | LangChain, Vector DB, LLMs |
+| 🔄 **MLOps Pipeline** | End-to-end ML pipeline with automated training and deployment | Docker, Kubernetes, MLflow |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ycmmn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFA6&icon_color=00BFA6&text_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ycmmn&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFA6&fire=00BFA6&currStreakLabel=00BFA6" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycmmn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFA6&text_color=ffffff" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ycmmn&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFA6&line=00BFA6&point=ffffff" />
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Academic Background
+- **Computer Engineering**
+- Focus: AI, Deep Learning, Medical Imaging
+- Research: Neural Networks & Healthcare AI
+
+</td>
+<td width="50%">
+
+### 📜 Harvard University Certifications
+- ✅ **CS50x** - Introduction to Computer Science
+- ✅ **CS50p** - Introduction to Programming with Python
+- ✅ **CS50 AI** - Introduction to Artificial Intelligence
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌱 Current Research & Focus
+
+```mermaid
+mindmap
+  root((AI Research))
+    Medical AI
+      Disease Detection
+      Medical Imaging
+      Healthcare Automation
+    Deep Learning
+      Neural Architectures
+      Transfer Learning
+      Model Optimization
+    Applied AI
+      Production Systems
+      MLOps
+      Real-world Solutions
+    Future Tech
+      RAG Systems
+      Multimodal AI
+      Edge AI
+```
+
+**Current Goals:**
+- 🔬 Publishing research in Medical AI and Deep Learning
+- 🚀 Building production-ready AI systems
+- 🌍 Contributing to open-source AI projects
+- 📚 Advancing knowledge in RAG and Knowledge Systems
+
+---
+
+## 💼 Professional Experience
+
+```yaml
+current_role:
+  title: "AI Solutions Developer"
+  company: "Knowledge-Based Technology Company"
+  focus:
+    - AI-driven automation systems
+    - Intelligent data cataloging
+    - Smart assistants development
+    - API integration & deployment
+
+expertise_areas:
+  - Medical AI research and development
+  - Deep Learning model design and optimization
+  - Production ML system architecture
+  - AI automation and workflow orchestration
+```
+
+---
+
+## 📈 Skill Proficiency
+
+<div align="center">
+
+| Skill Domain | Proficiency |
+|--------------|-------------|
+| **Deep Learning** | ![](https://geps.dev/progress/95?dangerColor=00BFA6&warningColor=00BFA6&successColor=00BFA6) |
+| **Python Development** | ![](https://geps.dev/progress/95?dangerColor=00BFA6&warningColor=00BFA6&successColor=00BFA6) |
+| **Computer Vision** | ![](https://geps.dev/progress/90?dangerColor=00BFA6&warningColor=00BFA6&successColor=00BFA6) |
+| **NLP & Transformers** | ![](https://geps.dev/progress/85?dangerColor=00BFA6&warningColor=00BFA6&successColor=00BFA6) |
+| **MLOps & Deployment** | ![](https://geps.dev/progress/85?dangerColor=00BFA6&warningColor=00BFA6&successColor=00BFA6) |
+| **API Development** | ![](https://geps.dev/progress/90?dangerColor=00BFA6&warningColor=00BFA6&successColor=00BFA6) |
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate!
+
+<div align="center">
+
+I'm always interested in collaborating on:
+- 🏥 Medical AI and Healthcare Innovation projects
+- 🧠 Deep Learning research and applications
+- 🤖 AI automation and intelligent systems
+- 📚 Open-source AI/ML projects
+
+**Feel free to reach out if you want to:**
+- Discuss AI research and innovations
+- Collaborate on meaningful projects
+- Share knowledge and learn together
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-Let's_Connect-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ycmmn)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yasa.aidv@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ycmmn)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Philosophy
+
+*"Intelligence is not just about learning — it's about creating something meaningful that enhances human life."*
+
+### ⚡ Fun Fact
+
+When I'm not training neural networks, I'm exploring the intersection of AI and medicine to build systems that can save lives and improve healthcare outcomes.
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,12,20&section=footer" />
+
+**Thanks for visiting! Let's build the future of AI together.** 🚀
+
+![](https://komarev.com/ghpvc/?username=ycmmn&color=00BFA6&style=for-the-badge)
+
+</div>
