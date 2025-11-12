@@ -171,7 +171,7 @@ class AIResearcher:
 ## 🌱 Current Research & Focus
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#FFB6C1','primaryTextColor':'#fff','primaryBorderColor':'#FF69B4','lineColor':'#FF1493','secondaryColor':'#FFC0CB','tertiaryColor':'#FFE5F1','background':'#1a1a1a','mainBkg':'#FFB6C1','secondBkg':'#FFC0CB','tertiaryBkg':'#FFE5F1','nodeBorder':'#FF69B4','clusterBkg':'#FFE5F1','clusterBorder':'#FF69B4','titleColor':'#FF1493','edgeLabelBackground':'#FFE5F1','nodeTextColor':'#ffffff'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#9D4EDD','primaryTextColor':'#ffffff','primaryBorderColor':'#7B2CBF','lineColor':'#C77DFF','secondaryColor':'#E0AAFF','secondaryTextColor':'#000000','secondaryBorderColor':'#C77DFF','tertiaryColor':'#10002B','tertiaryTextColor':'#ffffff','tertiaryBorderColor':'#5A189A','background':'#0d1117','mainBkg':'#E0AAFF','secondBkg':'#C77DFF','tertiaryBkg':'#9D4EDD','nodeBorder':'#7B2CBF','clusterBkg':'#10002B','clusterBorder':'#5A189A','titleColor':'#E0AAFF','edgeLabelBackground':'#10002B','nodeTextColor':'#000000'}}}%%
 mindmap
   root((AI Research))
     Medical AI
