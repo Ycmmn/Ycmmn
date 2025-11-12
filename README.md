@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yabix
+# 🧠 Yasaman Soleimani
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=AI+Researcher+%26+Developer;Deep+Learning+Specialist;Medical+AI+Innovator;Building+Intelligent+Systems)](https://git.io/typing-svg)
 
@@ -10,7 +10,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ycmmn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yasa.aidv@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/ycmmn?style=for-the-badge&logo=github&logoColor=white&color=00BFA6)](https://github.com/ycmmn)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ycmmn)
 
 </div>
 
