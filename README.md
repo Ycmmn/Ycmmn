@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Yasaman Soleimani
+#  Yabix
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=AI+Researcher+%26+Developer;Deep+Learning+Specialist;Medical+AI+Innovator;Building+Intelligent+Systems)](https://git.io/typing-svg)
 
@@ -199,66 +199,6 @@ mindmap
 
 ---
 
-## 💼 Professional Experience
-
-```yaml
-current_role:
-  title: "AI Solutions Developer"
-  company: "Knowledge-Based Technology Company"
-  focus:
-    - AI-driven automation systems
-    - Intelligent data cataloging
-    - Smart assistants development
-    - API integration & deployment
-
-expertise_areas:
-  - Medical AI research and development
-  - Deep Learning model design and optimization
-  - Production ML system architecture
-  - AI automation and workflow orchestration
-```
-
----
-
-## 📈 Skill Proficiency
-
-<div align="center">
-
-> *"Learning never stops - every day brings new challenges and growth"*
-
-| Skill Domain | Proficiency |
-|--------------|-------------|
-| **Deep Learning** | ![](https://geps.dev/progress/90?dangerColor=00BFA6&warningColor=00BFA6&successColor=00BFA6) |
-| **Python Development** | ![](https://geps.dev/progress/95?dangerColor=00BFA6&warningColor=00BFA6&successColor=00BFA6) |
-| **Computer Vision** | ![](https://geps.dev/progress/85?dangerColor=00BFA6&warningColor=00BFA6&successColor=00BFA6) |
-| **NLP & Transformers** | ![](https://geps.dev/progress/80?dangerColor=00BFA6&warningColor=00BFA6&successColor=00BFA6) |
-| **MLOps & Deployment** | ![](https://geps.dev/progress/88?dangerColor=00BFA6&warningColor=00BFA6&successColor=00BFA6) |
-| **API Development** | ![](https://geps.dev/progress/92?dangerColor=00BFA6&warningColor=00BFA6&successColor=00BFA6) |
-
-*📚 Constantly evolving and learning - these numbers represent a moment in continuous growth*
-
-</div>
-
----
-
-## 🤝 Let's Collaborate!
-
-<div align="center">
-
-I'm always interested in collaborating on:
-- 🏥 Medical AI and Healthcare Innovation projects
-- 🧠 Deep Learning research and applications
-- 🤖 AI automation and intelligent systems
-- 📚 Open-source AI/ML projects
-
-**Feel free to reach out if you want to:**
-- Discuss AI research and innovations
-- Collaborate on meaningful projects
-- Share knowledge and learn together
-
-</div>
-
----
 
 ## 📫 Connect With Me
 
@@ -278,11 +218,6 @@ I'm always interested in collaborating on:
 
 *"Intelligence is not just about learning — it's about creating something meaningful that enhances human life."*
 
-### ⚡ Fun Fact
-
-When I'm not training neural networks, I'm exploring the intersection of AI and medicine to build systems that can save lives and improve healthcare outcomes.
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,12,20&section=footer" />
 
