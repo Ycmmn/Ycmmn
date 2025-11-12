@@ -129,20 +129,6 @@ class AIResearcher:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ycmmn&show_icons=true&theme=dracula&hide_border=true&bg_color=FFE5F1&title_color=FF1493&icon_color=FF69B4&text_color=C71585" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ycmmn&theme=dracula&hide_border=true&background=FFE5F1&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycmmn&layout=compact&theme=dracula&hide_border=true&bg_color=FFE5F1&title_color=FF1493&text_color=C71585" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ycmmn&theme=github-compact&hide_border=true&bg_color=FFE5F1&color=FF1493&line=FF69B4&point=C71585" />
-
-</div>
-
----
-
 ## 🎓 Education & Certifications
 
 <table>
