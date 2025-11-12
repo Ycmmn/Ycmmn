@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Yasaman Soleimani
+#  Yasa
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=AI+Researcher+%26+Developer;Deep+Learning+Specialist;Medical+AI+Innovator;Building+Intelligent+Systems)](https://git.io/typing-svg)
 
@@ -170,118 +170,33 @@ class AIResearcher:
 
 ## 🌱 Current Research & Focus
 
-<div align="center">
-
-### 🔬 Research Areas
-
+```mermaid
+mindmap
+  root((AI Research))
+    Medical AI
+      Disease Detection
+      Medical Imaging
+      Healthcare Automation
+    Deep Learning
+      Neural Architectures
+      Transfer Learning
+      Model Optimization
+    Applied AI
+      Production Systems
+      MLOps
+      Real-world Solutions
+    Future Tech
+      RAG Systems
+      Multimodal AI
+      Edge AI
 ```
-                    🧠 AI Research & Innovation
-                            │
-        ┌───────────────────┼───────────────────┐
-        │                   │                   │
-    🏥 Medical AI      🤖 Deep Learning    🚀 Applied AI
-        │                   │                   │
-   ├─ Disease          ├─ Neural           ├─ Production
-   │  Detection        │  Architectures    │  Systems
-   │                   │                   │
-   ├─ Medical          ├─ Transfer         ├─ MLOps
-   │  Imaging          │  Learning         │
-   │                   │                   │
-   └─ Healthcare       └─ Model            └─ Real-world
-      Automation          Optimization        Solutions
-```
 
-</div>
-
-### 🎯 Current Goals
-
-<table>
-<tr>
-<td width="50%">
-
-**🔬 Research & Development**
-- 📄 Publishing research in Medical AI and Deep Learning
-- 🧪 Experimenting with novel neural architectures
-- 🏥 Advancing healthcare AI applications
-
-</td>
-<td width="50%">
-
-**🚀 Engineering & Innovation**
-- 💻 Building production-ready AI systems
+**Current Goals:**
+- 🔬 Publishing research in Medical AI and Deep Learning
+- 🚀 Building production-ready AI systems
 - 🌍 Contributing to open-source AI projects
 - 📚 Advancing knowledge in RAG and Knowledge Systems
 
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**🌟 Focus Areas for 2025:** *Multimodal AI • Edge Computing • Medical Diagnostics • Knowledge Graphs*
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-```yaml
-current_role:
-  title: "AI Solutions Developer"
-  company: "Knowledge-Based Technology Company"
-  focus:
-    - AI-driven automation systems
-    - Intelligent data cataloging
-    - Smart assistants development
-    - API integration & deployment
-
-expertise_areas:
-  - Medical AI research and development
-  - Deep Learning model design and optimization
-  - Production ML system architecture
-  - AI automation and workflow orchestration
-```
-
----
-
-## 📈 Skill Proficiency
-
-<div align="center">
-
-> *"Learning never stops - every day brings new challenges and growth"*
-
-| Skill Domain | Proficiency |
-|--------------|-------------|
-| **Deep Learning** | ![](https://geps.dev/progress/90?dangerColor=C77DFF&warningColor=E0AAFF&successColor=C77DFF) |
-| **Python Development** | ![](https://geps.dev/progress/95?dangerColor=C77DFF&warningColor=E0AAFF&successColor=C77DFF) |
-| **Computer Vision** | ![](https://geps.dev/progress/85?dangerColor=C77DFF&warningColor=E0AAFF&successColor=C77DFF) |
-| **NLP & Transformers** | ![](https://geps.dev/progress/80?dangerColor=C77DFF&warningColor=E0AAFF&successColor=C77DFF) |
-| **MLOps & Deployment** | ![](https://geps.dev/progress/88?dangerColor=C77DFF&warningColor=E0AAFF&successColor=C77DFF) |
-| **API Development** | ![](https://geps.dev/progress/92?dangerColor=C77DFF&warningColor=E0AAFF&successColor=C77DFF) |
-
-*📚 Constantly evolving and learning - these numbers represent a moment in continuous growth*
-
-</div>
-
----
-
-## 🤝 Let's Collaborate!
-
-<div align="center">
-
-I'm always interested in collaborating on:
-- 🏥 Medical AI and Healthcare Innovation projects
-- 🧠 Deep Learning research and applications
-- 🤖 AI automation and intelligent systems
-- 📚 Open-source AI/ML projects
-
-**Feel free to reach out if you want to:**
-- Discuss AI research and innovations
-- Collaborate on meaningful projects
-- Share knowledge and learn together
-
-</div>
 
 ---
 
@@ -297,17 +212,6 @@ I'm always interested in collaborating on:
 
 ---
 
-<div align="center">
-
-### 💭 Philosophy
-
-*"Intelligence is not just about learning — it's about creating something meaningful that enhances human life."*
-
-### ⚡ Fun Fact
-
-When I'm not training neural networks, I'm exploring the intersection of AI and medicine to build systems that can save lives and improve healthcare outcomes.
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=14,15,16,17,18&section=footer" />
 
