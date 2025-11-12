@@ -2,15 +2,15 @@
 
 #  Yasa
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=AI+Researcher+%26+Developer;Deep+Learning+Specialist;Medical+AI+Innovator;Building+Intelligent+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,1,2,3,4&text=AI%20%7C%20ML%20%7C%20DL&fontSize=50&fontAlignY=35&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=14,20,23,26,30&text=AI%20%7C%20ML%20%7C%20DL&fontSize=50&fontAlignY=35&animation=fadeIn" />
 
 ### 🎓 Computer Engineering • 🔬 AI Researcher • 🏥 Medical AI Specialist
 
-[![Telegram](https://img.shields.io/badge/Telegram-FF69B4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ycmmn)
-[![Email](https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yasa.aidv@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FF85C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ycmmn)
+[![Telegram](https://img.shields.io/badge/Telegram-9D4EDD?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ycmmn)
+[![Email](https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yasa.aidv@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ycmmn)
 
 </div>
 
@@ -171,7 +171,7 @@ class AIResearcher:
 ## 🌱 Current Research & Focus
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#9D4EDD','primaryTextColor':'#ffffff','primaryBorderColor':'#7B2CBF','lineColor':'#C77DFF','secondaryColor':'#E0AAFF','secondaryTextColor':'#000000','secondaryBorderColor':'#C77DFF','tertiaryColor':'#10002B','tertiaryTextColor':'#ffffff','tertiaryBorderColor':'#5A189A','background':'#0d1117','mainBkg':'#E0AAFF','secondBkg':'#C77DFF','tertiaryBkg':'#9D4EDD','nodeBorder':'#7B2CBF','clusterBkg':'#10002B','clusterBorder':'#5A189A','titleColor':'#E0AAFF','edgeLabelBackground':'#10002B','nodeTextColor':'#000000'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#9D4EDD','primaryTextColor':'#ffffff','primaryBorderColor':'#7B2CBF','lineColor':'#C77DFF','secondaryColor':'#E0AAFF','secondaryTextColor':'#000000','secondaryBorderColor':'#C77DFF','tertiaryColor':'#C77DFF','tertiaryTextColor':'#000000','tertiaryBorderColor':'#9D4EDD','background':'#0d1117','mainBkg':'#9D4EDD','secondBkg':'#E0AAFF','tertiaryBkg':'#C77DFF','nodeBorder':'#7B2CBF','clusterBkg':'#10002B','clusterBorder':'#5A189A','titleColor':'#E0AAFF','edgeLabelBackground':'#10002B','nodeTextColor':'#ffffff'}}}%%
 mindmap
   root((AI Research))
     Medical AI
@@ -205,19 +205,19 @@ mindmap
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-Let's_Connect-FF69B4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ycmmn)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yasa.aidv@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-FF85C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ycmmn)
+[![Telegram](https://img.shields.io/badge/Telegram-Let's_Connect-9D4EDD?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ycmmn)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-C77DFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yasa.aidv@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ycmmn)
 
 </div>
 
 ---
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,1,2,3,4&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=14,20,23,26,30&section=footer" />
 
 **Thanks for visiting! Let's build the future of AI together.** 🚀
 
-![](https://komarev.com/ghpvc/?username=ycmmn&color=FF69B4&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ycmmn&color=9D4EDD&style=for-the-badge)
 
 </div>
