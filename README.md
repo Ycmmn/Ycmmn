@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Yasa
+#  Yasa
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=AI+Researcher+%26+Deep+Learning+Engineer;Building+Intelligent+Medical+AI+Systems;Transforming+Healthcare+with+Neural+Networks;Production+ML+%7C+MLOps+%7C+Computer+Vision)](https://git.io/typing-svg)
 
@@ -9,9 +9,9 @@
 ### 🎓 Computer Engineering • 🔬 AI Researcher • 🏥 Medical AI Specialist
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/Deep_Learning-Specialist-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/Medical_AI-Researcher-00C853?style=for-the-badge&logo=healthcare&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Medical_AI-00C853?style=for-the-badge&logo=healthcare&logoColor=white&labelColor=1a1a1a" />
 </p>
 
 [![Telegram](https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ycmmn)
@@ -41,23 +41,6 @@ class AIResearcher:
             "🔬 Transfer Learning & Transformers"
         ]
         self.current_focus = "Building AI that enhances human life"
-    
-    def expertise(self):
-        return {
-            "research": ["Deep Learning", "Transfer Learning", "Transformers", "CNNs", "RNNs"],
-            "domains": ["Medical Imaging", "AI Automation", "Knowledge Systems", "RAG"],
-            "development": ["Production AI", "MLOps", "API Design", "Docker", "Kubernetes"],
-            "frameworks": ["PyTorch", "TensorFlow", "Keras", "Hugging Face"]
-        }
-    
-    def current_projects(self):
-        return [
-            "🏥 Medical AI Diagnostic System",
-            "🤖 Intelligent Automation Platform", 
-            "🧠 Neural Architecture Research",
-            "📚 RAG Knowledge System",
-            "🔄 MLOps Pipeline Automation"
-        ]
 ```
 
 > **🎯 Mission:** Bridging the gap between cutting-edge AI research and real-world applications that make a meaningful impact on healthcare and society.
@@ -70,30 +53,30 @@ class AIResearcher:
 <div align="center">
 
 ### 🧠 Core AI/ML Frameworks
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)
-![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1a1a1a)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a1a)
-![Keras](https://img.shields.io/badge/Keras-Proficient-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=1a1a1a)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-Expert-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a1a1a)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Advanced-FFD21E?style=for-the-badge&labelColor=1a1a1a)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1a1a1a)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a1a)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=1a1a1a)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a1a1a)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&labelColor=1a1a1a)
 
 ### 👁️ Computer Vision & NLP
-![OpenCV](https://img.shields.io/badge/OpenCV-Expert-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1a1a1a)
-![YOLO](https://img.shields.io/badge/YOLO-Advanced-00FFFF?style=for-the-badge&logoColor=black&labelColor=1a1a1a)
-![spaCy](https://img.shields.io/badge/spaCy-Proficient-09A3D5?style=for-the-badge&logo=spacy&logoColor=white&labelColor=1a1a1a)
-![Transformers](https://img.shields.io/badge/Transformers-Advanced-FFD21E?style=for-the-badge&logoColor=black&labelColor=1a1a1a)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1a1a1a)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black&labelColor=1a1a1a)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white&labelColor=1a1a1a)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logoColor=black&labelColor=1a1a1a)
 
 ### 🚀 Development & Deployment
-![FastAPI](https://img.shields.io/badge/FastAPI-Expert-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1a1a)
-![Streamlit](https://img.shields.io/badge/Streamlit-Advanced-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=1a1a1a)
-![Docker](https://img.shields.io/badge/Docker-Proficient-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1a1a1a)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1a1a)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=1a1a1a)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1a1a1a)
 
 ### 📊 Data & Databases
-![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1a1a)
-![NumPy](https://img.shields.io/badge/NumPy-Expert-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a1a)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Proficient-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a)
-![MySQL](https://img.shields.io/badge/MySQL-Proficient-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1a1a)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a1a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a)
 
 </div>
 
