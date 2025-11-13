@@ -84,23 +84,6 @@ class AIResearcher:
 
 ## 🏆 Featured Projects & Research
 
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1E90FF','primaryTextColor':'#fff','lineColor':'#00BFFF','secondaryColor':'#4169E1','background':'#0d1117'}}}%%
-gantt
-    title AI Research & Development Timeline
-    dateFormat YYYY-MM
-    section Medical AI
-    Disease Detection System    :active, 2024-01, 2025-03
-    Medical Image Analysis      :2024-06, 2025-01
-    section Deep Learning
-    Neural Architecture Research :2024-03, 2025-02
-    Transfer Learning Projects   :2024-05, 2024-12
-    section Production Systems
-    MLOps Pipeline              :2024-07, 2025-01
-    Automation Platform         :2024-09, 2025-03
-    section RAG Systems
-    Knowledge Management        :2024-11, 2025-04
-```
 
 <div align="center">
 
@@ -110,7 +93,7 @@ gantt
 | 🤖 **AI Automation Platform** | Intelligent data processing & cataloging system | Streamlit • FastAPI • n8n • AI Agents | 🟢 Active |
 | 🧠 **Neural Architecture Lab** | Custom architectures & transfer learning experiments | PyTorch • Transformers • Hugging Face | 🟢 Active |
 | 📚 **RAG Knowledge System** | Advanced retrieval-augmented generation | LangChain • Vector DB • LLMs • Embeddings | 🟡 Research |
-| 🔄 **MLOps Pipeline** | End-to-end ML with automated deployment | Docker • Kubernetes • MLflow • CI/CD | 🟡 In Progress |
+| 🔄 **MLOps Pipeline** | End-to-end ML with automated deployment | Docker • Kubernetes • MLflow • CI/CD |🟡 In Progress |
 
 </div>
 ---
