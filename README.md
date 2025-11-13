@@ -2,15 +2,15 @@
 
 #  Yasa
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,1,2,3,4&text=AI%20%7C%20ML%20%7C%20DL&fontSize=50&fontAlignY=35&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=14,20,23,26,30&text=AI%20%7C%20ML%20%7C%20DL&fontSize=50&fontAlignY=35&animation=fadeIn" />
 
 ### 🎓 Computer Engineering • 🔬 AI Researcher • 🏥 Medical AI Specialist
 
-[![Telegram](https://img.shields.io/badge/Telegram-FF69B4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ycmmn)
-[![Email](https://img.shields.io/badge/Email-FF85C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yasa.aidv@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FFB6D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ycmmn)
+[![Telegram](https://img.shields.io/badge/Telegram-9D4EDD?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ycmmn)
+[![Email](https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yasa.aidv@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ycmmn)
 
 </div>
 
@@ -133,10 +133,10 @@ class AIResearcher:
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ycmmn&show_icons=true&theme=dracula&hide_border=true&bg_color=FFE5F1&title_color=FF1493&icon_color=FF69B4&text_color=C71585" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ycmmn&theme=dracula&hide_border=true&background=FFE5F1&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ycmmn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=C77DFF&text_color=E0AAFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ycmmn&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakLabel=E0AAFF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycmmn&layout=compact&theme=dracula&hide_border=true&bg_color=FFE5F1&title_color=FF1493&text_color=C71585" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycmmn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=E0AAFF" />
 
 </div>
 
@@ -170,7 +170,7 @@ class AIResearcher:
 ## 🌱 Current Research & Focus
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#FFB6D9','primaryTextColor':'#000000','primaryBorderColor':'#FF69B4','lineColor':'#FF1493','secondaryColor':'#FFC0CB','tertiaryColor':'#FFE5F1','background':'#1a1a1a','mainBkg':'#FFB6D9','secondBkg':'#FFC0CB','tertiaryBkg':'#FFE5F1','nodeBorder':'#FF69B4','clusterBkg':'#FFE5F1','clusterBorder':'#FF69B4','titleColor':'#FF1493','edgeLabelBackground':'#FFE5F1','nodeTextColor':'#000000'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#9D4EDD','primaryTextColor':'#ffffff','primaryBorderColor':'#7B2CBF','lineColor':'#C77DFF','secondaryColor':'#E0AAFF','secondaryTextColor':'#000000','secondaryBorderColor':'#C77DFF','tertiaryColor':'#C77DFF','tertiaryTextColor':'#000000','tertiaryBorderColor':'#9D4EDD','background':'#0d1117','mainBkg':'#9D4EDD','secondBkg':'#E0AAFF','tertiaryBkg':'#C77DFF','nodeBorder':'#7B2CBF','clusterBkg':'#10002B','clusterBorder':'#5A189A','titleColor':'#E0AAFF','edgeLabelBackground':'#10002B','nodeTextColor':'#ffffff'}}}%%
 mindmap
   root((AI Research))
     Medical AI
@@ -204,19 +204,19 @@ mindmap
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-Let's_Connect-FF69B4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ycmmn)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-FF85C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yasa.aidv@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-FFB6D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ycmmn)
+[![Telegram](https://img.shields.io/badge/Telegram-Let's_Connect-9D4EDD?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ycmmn)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-C77DFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yasa.aidv@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ycmmn)
 
 </div>
 
 ---
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,1,2,3,4&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=14,20,23,26,30&section=footer" />
 
 **Thanks for visiting! Let's build the future of AI together.** 🚀
 
-![](https://komarev.com/ghpvc/?username=ycmmn&color=FF69B4&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ycmmn&color=9D4EDD&style=for-the-badge)
 
 </div>
