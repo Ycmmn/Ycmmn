@@ -2,7 +2,7 @@
 
 #  Yasa
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=14,20,23,26,30&text=AI%20%7C%20ML%20%7C%20DL&fontSize=50&fontAlignY=35&animation=fadeIn" />
 
@@ -124,6 +124,19 @@ class AIResearcher:
 | 🧠 **Neural Architecture Research** | Experimenting with custom architectures and transfer learning | PyTorch, Transformers, Hugging Face |
 | 📚 **RAG Knowledge System** | Advanced retrieval-augmented generation for knowledge management | LangChain, Vector DB, LLMs |
 | 🔄 **MLOps Pipeline** | End-to-end ML pipeline with automated training and deployment | Docker, Kubernetes, MLflow |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ycmmn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=C77DFF&text_color=E0AAFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ycmmn&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakLabel=E0AAFF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycmmn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=E0AAFF" />
 
 </div>
 
