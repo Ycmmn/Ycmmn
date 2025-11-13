@@ -24,30 +24,6 @@
 
 ---
 
-## 🧠 AI Research Pipeline
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1E90FF','primaryTextColor':'#fff','primaryBorderColor':'#0047AB','lineColor':'#00BFFF','secondaryColor':'#4169E1','tertiaryColor':'#87CEEB','background':'#0d1117','mainBkg':'#1E90FF','secondBkg':'#4169E1','lineColor':'#00BFFF','textColor':'#fff','fontSize':'16px'}}}%%
-graph LR
-    A[🔍 Research] -->|Deep Learning| B[🧪 Experimentation]
-    B -->|Neural Nets| C[🏗️ Architecture Design]
-    C -->|Optimization| D[🎯 Model Training]
-    D -->|Validation| E[📊 Evaluation]
-    E -->|Deploy| F[🚀 Production]
-    F -->|Monitor| G[📈 MLOps]
-    G -->|Feedback| A
-    
-    style A fill:#1E90FF,stroke:#00BFFF,stroke-width:3px,color:#fff
-    style B fill:#4169E1,stroke:#00BFFF,stroke-width:3px,color:#fff
-    style C fill:#0047AB,stroke:#00BFFF,stroke-width:3px,color:#fff
-    style D fill:#1E90FF,stroke:#00BFFF,stroke-width:3px,color:#fff
-    style E fill:#4169E1,stroke:#00BFFF,stroke-width:3px,color:#fff
-    style F fill:#0047AB,stroke:#00BFFF,stroke-width:3px,color:#fff
-    style G fill:#1E90FF,stroke:#00BFFF,stroke-width:3px,color:#fff
-```
-
----
-
 ## 🚀 About Me
 
 ```python
@@ -86,44 +62,6 @@ class AIResearcher:
 
 > **🎯 Mission:** Bridging the gap between cutting-edge AI research and real-world applications that make a meaningful impact on healthcare and society.
 
----
-
-## 💡 Deep Learning Expertise
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1E90FF','primaryTextColor':'#fff','primaryBorderColor':'#00BFFF','lineColor':'#00BFFF','secondaryColor':'#4169E1','background':'#0d1117','fontSize':'14px'}}}%%
-mindmap
-  root((Deep Learning<br/>Expertise))
-    Computer Vision
-      CNNs
-      Object Detection
-      Image Segmentation
-      Medical Imaging
-      Transfer Learning
-    NLP
-      Transformers
-      BERT/GPT
-      Text Classification
-      Named Entity Recognition
-      Sentiment Analysis
-    Neural Architectures
-      ResNet
-      VGG
-      YOLO
-      U-Net
-      Attention Mechanisms
-    Medical AI
-      Disease Detection
-      Diagnostic Systems
-      Healthcare Automation
-      Clinical Decision Support
-    MLOps
-      Model Deployment
-      Docker/K8s
-      CI/CD Pipelines
-      Monitoring
-      A/B Testing
-```
 
 ---
 
@@ -193,19 +131,6 @@ gantt
 
 </div>
 
----
-
-## 📊 AI Model Performance Visualization
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'xyChart': {'backgroundColor': '#0d1117', 'titleColor': '#00BFFF', 'xAxisLabelColor': '#fff', 'yAxisLabelColor': '#fff'}}}}%%
-xychart-beta
-    title "Model Accuracy Across Different Architectures"
-    x-axis [ResNet50, VGG16, EfficientNet, Custom-CNN, Transformer, YOLO-v8]
-    y-axis "Accuracy %" 0 --> 100
-    bar [92, 88, 95, 87, 93, 91]
-    line [92, 88, 95, 87, 93, 91]
-```
 
 ---
 
@@ -251,137 +176,6 @@ xychart-beta
 </td>
 </tr>
 </table>
-
----
-
-## 🔬 Research Focus Areas
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1E90FF','primaryTextColor':'#fff','primaryBorderColor':'#00BFFF','lineColor':'#00BFFF','secondaryColor':'#4169E1','tertiaryColor':'#87CEEB','background':'#0d1117','mainBkg':'#1E90FF','fontSize':'16px'}}}%%
-graph TD
-    A[🔬 AI Research] --> B[🏥 Medical AI]
-    A --> C[🧠 Deep Learning]
-    A --> D[🚀 Applied AI]
-    A --> E[🔮 Future Tech]
-    
-    B --> B1[Disease Detection]
-    B --> B2[Medical Imaging]
-    B --> B3[Healthcare Automation]
-    B --> B4[Clinical Decision Support]
-    
-    C --> C1[Neural Architectures]
-    C --> C2[Transfer Learning]
-    C --> C3[Model Optimization]
-    C --> C4[Attention Mechanisms]
-    
-    D --> D1[Production Systems]
-    D --> D2[MLOps & Deployment]
-    D --> D3[Real-world Solutions]
-    D --> D4[API Development]
-    
-    E --> E1[RAG Systems]
-    E --> E2[Multimodal AI]
-    E --> E3[Edge AI]
-    E --> E4[Federated Learning]
-    
-    style A fill:#1E90FF,stroke:#00BFFF,stroke-width:4px,color:#fff
-    style B fill:#4169E1,stroke:#00BFFF,stroke-width:3px,color:#fff
-    style C fill:#4169E1,stroke:#00BFFF,stroke-width:3px,color:#fff
-    style D fill:#4169E1,stroke:#00BFFF,stroke-width:3px,color:#fff
-    style E fill:#4169E1,stroke:#00BFFF,stroke-width:3px,color:#fff
-```
-
----
-
-## 📈 Skills & Proficiency
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1E90FF','primaryTextColor':'#fff','lineColor':'#00BFFF','background':'#0d1117'}}}%%
-pie title Skill Distribution
-    "Deep Learning & Neural Networks" : 30
-    "Computer Vision" : 20
-    "NLP & Transformers" : 15
-    "MLOps & Deployment" : 15
-    "Medical AI Research" : 12
-    "Data Engineering" : 8
-```
-
-</div>
-
----
-
-## 🌱 Current Goals & Roadmap
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1E90FF','primaryTextColor':'#fff','primaryBorderColor':'#00BFFF','lineColor':'#00BFFF','secondaryColor':'#4169E1','background':'#0d1117'}}}%%
-timeline
-    title Research & Development Roadmap 2025
-    section Q1 2025
-        Medical AI Paper Publication : Complete disease detection research
-        RAG System Enhancement : Advanced retrieval methods
-    section Q2 2025
-        Open Source Contributions : Release medical AI toolkit
-        MLOps Framework : Production-grade pipeline
-    section Q3 2025
-        Multimodal AI Research : Vision + Language models
-        Edge AI Deployment : Mobile & IoT systems
-    section Q4 2025
-        Advanced Transformers : Custom architecture design
-        Healthcare Platform : Full-stack AI solution
-```
-
-**🎯 2025 Objectives:**
-- 🔬 Publish research papers in Medical AI and Deep Learning conferences
-- 🚀 Deploy 3+ production-ready AI systems in healthcare domain
-- 🌍 Contribute to 5+ major open-source AI projects
-- 📚 Master advanced RAG architectures and Knowledge Systems
-- 🤝 Collaborate with international research teams
-- 🎓 Mentor aspiring AI researchers and engineers
-
----
-
-## 📫 Let's Connect & Collaborate
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Open+to+Research+Collaboration;Available+for+AI+Consulting;Let's+Build+Something+Amazing!)](https://git.io/typing-svg)
-
-<p align="center">
-  <a href="https://t.me/Ycmmn">
-    <img src="https://img.shields.io/badge/Telegram-Chat_With_Me-00BFFF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a" />
-  </a>
-  <a href="mailto:Yasa.aidv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach_Out-1E90FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" />
-  </a>
-  <a href="https://github.com/ycmmn">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-87CEEB?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" />
-  </a>
-</p>
-
-### 🤝 Open For
-```
-✅ Research Collaboration     ✅ Open Source Contributions
-✅ AI Consulting              ✅ Technical Mentorship
-✅ Medical AI Projects        ✅ Innovation Partnerships
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 🎨 Dynamic Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ycmmn&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&border_color=00BFFF&hide_border=false" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ycmmn&theme=tokyonight&background=0d1117&stroke=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakLabel=00BFFF&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e&sideLabels=ffffff" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ycmmn&theme=tokyo-night&bg_color=0d1117&color=00BFFF&line=1E90FF&point=00BFFF&area=true&hide_border=false" alt="Contribution Graph" />
-
-</div>
 
 ---
 
