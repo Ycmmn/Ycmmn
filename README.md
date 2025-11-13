@@ -1,18 +1,50 @@
 <div align="center">
 
-#  Yasa
+# 🚀 Yasa
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=AI+Researcher+%26+Deep+Learning+Engineer;Building+Intelligent+Medical+AI+Systems;Transforming+Healthcare+with+Neural+Networks;Production+ML+%7C+MLOps+%7C+Computer+Vision)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=14,20,23,26,30&text=AI%20%7C%20ML%20%7C%20DL&fontSize=50&fontAlignY=35&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=14,20,23,26,30&text=AI%20Research%20%26%20Innovation&fontSize=40&fontAlignY=35&animation=twinkling&desc=Deep%20Learning%20•%20Medical%20AI%20•%20Neural%20Networks&descAlignY=55&descSize=18" />
 
 ### 🎓 Computer Engineering • 🔬 AI Researcher • 🏥 Medical AI Specialist
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Deep_Learning-Specialist-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Medical_AI-Researcher-00C853?style=for-the-badge&logo=healthcare&logoColor=white&labelColor=1a1a1a" />
+</p>
 
 [![Telegram](https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ycmmn)
 [![Email](https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yasa.aidv@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-87CEEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ycmmn)
 
+![](https://komarev.com/ghpvc/?username=ycmmn&color=00BFFF&style=for-the-badge&label=Profile+Views)
+
 </div>
+
+---
+
+## 🧠 AI Research Pipeline
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1E90FF','primaryTextColor':'#fff','primaryBorderColor':'#0047AB','lineColor':'#00BFFF','secondaryColor':'#4169E1','tertiaryColor':'#87CEEB','background':'#0d1117','mainBkg':'#1E90FF','secondBkg':'#4169E1','lineColor':'#00BFFF','textColor':'#fff','fontSize':'16px'}}}%%
+graph LR
+    A[🔍 Research] -->|Deep Learning| B[🧪 Experimentation]
+    B -->|Neural Nets| C[🏗️ Architecture Design]
+    C -->|Optimization| D[🎯 Model Training]
+    D -->|Validation| E[📊 Evaluation]
+    E -->|Deploy| F[🚀 Production]
+    F -->|Monitor| G[📈 MLOps]
+    G -->|Feedback| A
+    
+    style A fill:#1E90FF,stroke:#00BFFF,stroke-width:3px,color:#fff
+    style B fill:#4169E1,stroke:#00BFFF,stroke-width:3px,color:#fff
+    style C fill:#0047AB,stroke:#00BFFF,stroke-width:3px,color:#fff
+    style D fill:#1E90FF,stroke:#00BFFF,stroke-width:3px,color:#fff
+    style E fill:#4169E1,stroke:#00BFFF,stroke-width:3px,color:#fff
+    style F fill:#0047AB,stroke:#00BFFF,stroke-width:3px,color:#fff
+    style G fill:#1E90FF,stroke:#00BFFF,stroke-width:3px,color:#fff
+```
 
 ---
 
@@ -23,109 +55,157 @@ class AIResearcher:
     def __init__(self):
         self.name = "Yasa"
         self.role = "AI Researcher & Deep Learning Engineer"
+        self.education = "Computer Engineering"
+        self.certifications = ["CS50x", "CS50p", "CS50 AI"]
         self.passions = [
-            "Medical AI & Healthcare Innovation",
-            "Neural Networks & Deep Learning",
-            "Intelligent Automation Systems",
-            "Computer Vision & NLP"
+            "🏥 Medical AI & Healthcare Innovation",
+            "🧠 Neural Networks & Deep Learning",
+            "🤖 Intelligent Automation Systems",
+            "👁️ Computer Vision & NLP",
+            "🔬 Transfer Learning & Transformers"
         ]
         self.current_focus = "Building AI that enhances human life"
     
     def expertise(self):
         return {
-            "research": ["Deep Learning", "Transfer Learning", "Transformers"],
-            "domains": ["Medical Imaging", "AI Automation", "Knowledge Systems"],
-            "development": ["Production AI", "MLOps", "API Design"]
+            "research": ["Deep Learning", "Transfer Learning", "Transformers", "CNNs", "RNNs"],
+            "domains": ["Medical Imaging", "AI Automation", "Knowledge Systems", "RAG"],
+            "development": ["Production AI", "MLOps", "API Design", "Docker", "Kubernetes"],
+            "frameworks": ["PyTorch", "TensorFlow", "Keras", "Hugging Face"]
         }
+    
+    def current_projects(self):
+        return [
+            "🏥 Medical AI Diagnostic System",
+            "🤖 Intelligent Automation Platform", 
+            "🧠 Neural Architecture Research",
+            "📚 RAG Knowledge System",
+            "🔄 MLOps Pipeline Automation"
+        ]
 ```
 
-> **🎯 Mission:** Bridging the gap between cutting-edge AI research and real-world applications that make a meaningful impact on society.
+> **🎯 Mission:** Bridging the gap between cutting-edge AI research and real-world applications that make a meaningful impact on healthcare and society.
 
 ---
 
-## 💡 Core Expertise
+## 💡 Deep Learning Expertise
 
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 AI & Machine Learning
-- 🔬 **Deep Learning Architecture Design**
-- 🎯 **Transfer Learning & Fine-tuning**
-- 🤖 **Transformers & Attention Mechanisms**
-- 📊 **Computer Vision & Image Processing**
-- 💬 **Natural Language Processing**
-- 🏥 **Medical AI & Healthcare Applications**
-
-</td>
-<td width="50%">
-
-### ⚙️ Engineering & Development
-- 🚀 **Production ML Systems**
-- 🐳 **Docker & Kubernetes**
-- 🌐 **FastAPI & RESTful APIs**
-- 🔄 **AI Automation (n8n, Agents)**
-- 📈 **Data Pipeline Engineering**
-- 🛠️ **MLOps & Model Deployment**
-
-</td>
-</tr>
-</table>
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1E90FF','primaryTextColor':'#fff','primaryBorderColor':'#00BFFF','lineColor':'#00BFFF','secondaryColor':'#4169E1','background':'#0d1117','fontSize':'14px'}}}%%
+mindmap
+  root((Deep Learning<br/>Expertise))
+    Computer Vision
+      CNNs
+      Object Detection
+      Image Segmentation
+      Medical Imaging
+      Transfer Learning
+    NLP
+      Transformers
+      BERT/GPT
+      Text Classification
+      Named Entity Recognition
+      Sentiment Analysis
+    Neural Architectures
+      ResNet
+      VGG
+      YOLO
+      U-Net
+      Attention Mechanisms
+    Medical AI
+      Disease Detection
+      Diagnostic Systems
+      Healthcare Automation
+      Clinical Decision Support
+    MLOps
+      Model Deployment
+      Docker/K8s
+      CI/CD Pipelines
+      Monitoring
+      A/B Testing
+```
 
 ---
 
-## 🛠️ Technology Stack
+## 🏗️ Technology Stack
 
 <div align="center">
 
-### Core AI/ML Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+### 🧠 Core AI/ML Frameworks
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)
+![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1a1a1a)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a1a)
+![Keras](https://img.shields.io/badge/Keras-Proficient-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=1a1a1a)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-Expert-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a1a1a)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Advanced-FFD21E?style=for-the-badge&labelColor=1a1a1a)
 
-### Computer Vision & NLP
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+### 👁️ Computer Vision & NLP
+![OpenCV](https://img.shields.io/badge/OpenCV-Expert-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1a1a1a)
+![YOLO](https://img.shields.io/badge/YOLO-Advanced-00FFFF?style=for-the-badge&logoColor=black&labelColor=1a1a1a)
+![spaCy](https://img.shields.io/badge/spaCy-Proficient-09A3D5?style=for-the-badge&logo=spacy&logoColor=white&labelColor=1a1a1a)
+![Transformers](https://img.shields.io/badge/Transformers-Advanced-FFD21E?style=for-the-badge&logoColor=black&labelColor=1a1a1a)
 
-### Development & Deployment
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### 🚀 Development & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-Expert-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1a1a)
+![Streamlit](https://img.shields.io/badge/Streamlit-Advanced-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=1a1a1a)
+![Docker](https://img.shields.io/badge/Docker-Proficient-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1a1a1a)
 
-### Data & Databases
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 📊 Data & Databases
+![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1a1a)
+![NumPy](https://img.shields.io/badge/NumPy-Expert-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a1a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Proficient-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a)
+![MySQL](https://img.shields.io/badge/MySQL-Proficient-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a)
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Featured Projects & Research
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1E90FF','primaryTextColor':'#fff','lineColor':'#00BFFF','secondaryColor':'#4169E1','background':'#0d1117'}}}%%
+gantt
+    title AI Research & Development Timeline
+    dateFormat YYYY-MM
+    section Medical AI
+    Disease Detection System    :active, 2024-01, 2025-03
+    Medical Image Analysis      :2024-06, 2025-01
+    section Deep Learning
+    Neural Architecture Research :2024-03, 2025-02
+    Transfer Learning Projects   :2024-05, 2024-12
+    section Production Systems
+    MLOps Pipeline              :2024-07, 2025-01
+    Automation Platform         :2024-09, 2025-03
+    section RAG Systems
+    Knowledge Management        :2024-11, 2025-04
+```
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🏥 **Medical AI Diagnostic System** | Deep learning models for medical image analysis and disease detection | PyTorch, TensorFlow, OpenCV |
-| 🤖 **Intelligent Automation Platform** | AI-driven data processing and cataloging system | Streamlit, FastAPI, n8n, AI Agents |
-| 🧠 **Neural Architecture Research** | Experimenting with custom architectures and transfer learning | PyTorch, Transformers, Hugging Face |
-| 📚 **RAG Knowledge System** | Advanced retrieval-augmented generation for knowledge management | LangChain, Vector DB, LLMs |
-| 🔄 **MLOps Pipeline** | End-to-end ML pipeline with automated training and deployment | Docker, Kubernetes, MLflow |
+| 🎯 Project | 📋 Description | 🛠️ Tech Stack | 📈 Status |
+|---------|-------------|------------|--------|
+| 🏥 **Medical AI Diagnostic** | Deep learning for medical image analysis & disease detection | PyTorch • TensorFlow • OpenCV • ResNet | 🟢 Active |
+| 🤖 **AI Automation Platform** | Intelligent data processing & cataloging system | Streamlit • FastAPI • n8n • AI Agents | 🟢 Active |
+| 🧠 **Neural Architecture Lab** | Custom architectures & transfer learning experiments | PyTorch • Transformers • Hugging Face | 🟡 Research |
+| 📚 **RAG Knowledge System** | Advanced retrieval-augmented generation | LangChain • Vector DB • LLMs • Embeddings | 🟢 Active |
+| 🔄 **MLOps Pipeline** | End-to-end ML with automated deployment | Docker • Kubernetes • MLflow • CI/CD | 🟡 Development |
 
 </div>
+
+---
+
+## 📊 AI Model Performance Visualization
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'xyChart': {'backgroundColor': '#0d1117', 'titleColor': '#00BFFF', 'xAxisLabelColor': '#fff', 'yAxisLabelColor': '#fff'}}}}%%
+xychart-beta
+    title "Model Accuracy Across Different Architectures"
+    x-axis [ResNet50, VGG16, EfficientNet, Custom-CNN, Transformer, YOLO-v8]
+    y-axis "Accuracy %" 0 --> 100
+    bar [92, 88, 95, 87, 93, 91]
+    line [92, 88, 95, 87, 93, 91]
+```
 
 ---
 
@@ -133,20 +213,40 @@ class AIResearcher:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎓 Academic Background
-- **Computer Engineering**
-- Focus: AI, Deep Learning, Medical Imaging
-- Research: Neural Networks & Healthcare AI
+```
+🎯 Computer Engineering
+   ├── Focus Areas:
+   │   ├── 🧠 Artificial Intelligence
+   │   ├── 🔬 Deep Learning
+   │   ├── 🏥 Medical Imaging
+   │   └── 🤖 Neural Networks
+   └── Research:
+       ├── Healthcare AI Systems
+       ├── Transfer Learning
+       └── Model Optimization
+```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📜 Harvard University Certifications
-- ✅ **CS50x** - Introduction to Computer Science
-- ✅ **CS50p** - Introduction to Programming with Python
-- ✅ **CS50 AI** - Introduction to Artificial Intelligence
+### 📜 Harvard University CS50
+```
+✅ CS50x
+   └── Computer Science Fundamentals
+   
+✅ CS50p
+   └── Python Programming
+   
+✅ CS50 AI
+   └── Artificial Intelligence
+       ├── Search Algorithms
+       ├── Neural Networks
+       ├── Machine Learning
+       └── NLP
+```
 
 </td>
 </tr>
@@ -154,56 +254,145 @@ class AIResearcher:
 
 ---
 
-## 🌱 Current Research & Focus
+## 🔬 Research Focus Areas
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#4169E1','primaryTextColor':'#FFFFFF','primaryBorderColor':'#0047AB','lineColor':'#1E90FF','secondaryColor':'#87CEEB','secondaryTextColor':'#000000','secondaryBorderColor':'#4682B4','tertiaryColor':'#00BFFF','tertiaryTextColor':'#000000','tertiaryBorderColor':'#1E90FF','background':'#0d1117','mainBkg':'#4169E1','secondBkg':'#87CEEB','tertiaryBkg':'#00BFFF','nodeBorder':'#0047AB','clusterBkg':'#E0F7FF','clusterBorder':'#4682B4','titleColor':'#1E90FF','edgeLabelBackground':'#E0F7FF','nodeTextColor':'#FFFFFF'}}}%%
-mindmap
-  root((AI Research))
-    Medical AI
-      Disease Detection
-      Medical Imaging
-      Healthcare Automation
-    Deep Learning
-      Neural Architectures
-      Transfer Learning
-      Model Optimization
-    Applied AI
-      Production Systems
-      MLOps
-      Real-world Solutions
-    Future Tech
-      RAG Systems
-      Multimodal AI
-      Edge AI
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1E90FF','primaryTextColor':'#fff','primaryBorderColor':'#00BFFF','lineColor':'#00BFFF','secondaryColor':'#4169E1','tertiaryColor':'#87CEEB','background':'#0d1117','mainBkg':'#1E90FF','fontSize':'16px'}}}%%
+graph TD
+    A[🔬 AI Research] --> B[🏥 Medical AI]
+    A --> C[🧠 Deep Learning]
+    A --> D[🚀 Applied AI]
+    A --> E[🔮 Future Tech]
+    
+    B --> B1[Disease Detection]
+    B --> B2[Medical Imaging]
+    B --> B3[Healthcare Automation]
+    B --> B4[Clinical Decision Support]
+    
+    C --> C1[Neural Architectures]
+    C --> C2[Transfer Learning]
+    C --> C3[Model Optimization]
+    C --> C4[Attention Mechanisms]
+    
+    D --> D1[Production Systems]
+    D --> D2[MLOps & Deployment]
+    D --> D3[Real-world Solutions]
+    D --> D4[API Development]
+    
+    E --> E1[RAG Systems]
+    E --> E2[Multimodal AI]
+    E --> E3[Edge AI]
+    E --> E4[Federated Learning]
+    
+    style A fill:#1E90FF,stroke:#00BFFF,stroke-width:4px,color:#fff
+    style B fill:#4169E1,stroke:#00BFFF,stroke-width:3px,color:#fff
+    style C fill:#4169E1,stroke:#00BFFF,stroke-width:3px,color:#fff
+    style D fill:#4169E1,stroke:#00BFFF,stroke-width:3px,color:#fff
+    style E fill:#4169E1,stroke:#00BFFF,stroke-width:3px,color:#fff
 ```
-
-**Current Goals:**
-- 🔬 Publishing research in Medical AI and Deep Learning
-- 🚀 Building production-ready AI systems
-- 🌍 Contributing to open-source AI projects
-- 📚 Advancing knowledge in RAG and Knowledge Systems
-
 
 ---
 
-## 📫 Connect With Me
+## 📈 Skills & Proficiency
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-Let's_Connect-00BFFF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ycmmn)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-1E90FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yasa.aidv@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-87CEEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ycmmn)
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1E90FF','primaryTextColor':'#fff','lineColor':'#00BFFF','background':'#0d1117'}}}%%
+pie title Skill Distribution
+    "Deep Learning & Neural Networks" : 30
+    "Computer Vision" : 20
+    "NLP & Transformers" : 15
+    "MLOps & Deployment" : 15
+    "Medical AI Research" : 12
+    "Data Engineering" : 8
+```
 
 </div>
 
 ---
 
+## 🌱 Current Goals & Roadmap
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=14,20,23,26,30&section=footer" />
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1E90FF','primaryTextColor':'#fff','primaryBorderColor':'#00BFFF','lineColor':'#00BFFF','secondaryColor':'#4169E1','background':'#0d1117'}}}%%
+timeline
+    title Research & Development Roadmap 2025
+    section Q1 2025
+        Medical AI Paper Publication : Complete disease detection research
+        RAG System Enhancement : Advanced retrieval methods
+    section Q2 2025
+        Open Source Contributions : Release medical AI toolkit
+        MLOps Framework : Production-grade pipeline
+    section Q3 2025
+        Multimodal AI Research : Vision + Language models
+        Edge AI Deployment : Mobile & IoT systems
+    section Q4 2025
+        Advanced Transformers : Custom architecture design
+        Healthcare Platform : Full-stack AI solution
+```
 
-**Thanks for visiting! Let's build the future of AI together.** 🚀
+**🎯 2025 Objectives:**
+- 🔬 Publish research papers in Medical AI and Deep Learning conferences
+- 🚀 Deploy 3+ production-ready AI systems in healthcare domain
+- 🌍 Contribute to 5+ major open-source AI projects
+- 📚 Master advanced RAG architectures and Knowledge Systems
+- 🤝 Collaborate with international research teams
+- 🎓 Mentor aspiring AI researchers and engineers
 
-![](https://komarev.com/ghpvc/?username=ycmmn&color=00BFFF&style=for-the-badge)
+---
+
+## 📫 Let's Connect & Collaborate
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Open+to+Research+Collaboration;Available+for+AI+Consulting;Let's+Build+Something+Amazing!)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://t.me/Ycmmn">
+    <img src="https://img.shields.io/badge/Telegram-Chat_With_Me-00BFFF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a" />
+  </a>
+  <a href="mailto:Yasa.aidv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach_Out-1E90FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" />
+  </a>
+  <a href="https://github.com/ycmmn">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-87CEEB?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" />
+  </a>
+</p>
+
+### 🤝 Open For
+```
+✅ Research Collaboration     ✅ Open Source Contributions
+✅ AI Consulting              ✅ Technical Mentorship
+✅ Medical AI Projects        ✅ Innovation Partnerships
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎨 Dynamic Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ycmmn&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&border_color=00BFFF&hide_border=false" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ycmmn&theme=tokyonight&background=0d1117&stroke=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakLabel=00BFFF&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e&sideLabels=ffffff" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ycmmn&theme=tokyo-night&bg_color=0d1117&color=00BFFF&line=1E90FF&point=00BFFF&area=true&hide_border=false" alt="Contribution Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=14,20,23,26,30&section=footer&animation=twinkling" />
+
+### ⚡ "Building the future of AI, one neural network at a time" ⚡
+
+**Made with 💙 by Yasa | Powered by AI Research & Innovation**
+
+![](https://komarev.com/ghpvc/?username=ycmmn&color=00BFFF&style=for-the-badge&label=Total+Profile+Views)
 
 </div>
