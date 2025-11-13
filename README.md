@@ -113,53 +113,6 @@ gantt
 | 🔄 **MLOps Pipeline** | End-to-end ML with automated deployment | Docker • Kubernetes • MLflow • CI/CD | 🟡 Development |
 
 </div>
-
-
----
-
-## 🎓 Education & Certifications
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Academic Background
-```
-🎯 Computer Engineering
-   ├── Focus Areas:
-   │   ├── 🧠 Artificial Intelligence
-   │   ├── 🔬 Deep Learning
-   │   ├── 🏥 Medical Imaging
-   │   └── 🤖 Neural Networks
-   └── Research:
-       ├── Healthcare AI Systems
-       ├── Transfer Learning
-       └── Model Optimization
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 📜 Harvard University CS50
-```
-✅ CS50x
-   └── Computer Science Fundamentals
-   
-✅ CS50p
-   └── Python Programming
-   
-✅ CS50 AI
-   └── Artificial Intelligence
-       ├── Search Algorithms
-       ├── Neural Networks
-       ├── Machine Learning
-       └── NLP
-```
-
-</td>
-</tr>
-</table>
-
 ---
 
 <div align="center">
