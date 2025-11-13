@@ -108,9 +108,9 @@ gantt
 |---------|-------------|------------|--------|
 | 🏥 **Medical AI Diagnostic** | Deep learning for medical image analysis & disease detection | PyTorch • TensorFlow • OpenCV • ResNet | 🟢 Active |
 | 🤖 **AI Automation Platform** | Intelligent data processing & cataloging system | Streamlit • FastAPI • n8n • AI Agents | 🟢 Active |
-| 🧠 **Neural Architecture Lab** | Custom architectures & transfer learning experiments | PyTorch • Transformers • Hugging Face | 🟡 Research |
-| 📚 **RAG Knowledge System** | Advanced retrieval-augmented generation | LangChain • Vector DB • LLMs • Embeddings | 🟢 Active |
-| 🔄 **MLOps Pipeline** | End-to-end ML with automated deployment | Docker • Kubernetes • MLflow • CI/CD | 🟡 Development |
+| 🧠 **Neural Architecture Lab** | Custom architectures & transfer learning experiments | PyTorch • Transformers • Hugging Face | 🟢 Active |
+| 📚 **RAG Knowledge System** | Advanced retrieval-augmented generation | LangChain • Vector DB • LLMs • Embeddings | 🟡 Research |
+| 🔄 **MLOps Pipeline** | End-to-end ML with automated deployment | Docker • Kubernetes • MLflow • CI/CD | 🟡 In Progress |
 
 </div>
 ---
