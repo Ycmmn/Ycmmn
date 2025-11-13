@@ -21,7 +21,7 @@
 ```python
 class AIResearcher:
     def __init__(self):
-        self.name = "Yasaman Soleimani"
+        self.name = "Yasa"
         self.role = "AI Researcher & Deep Learning Engineer"
         self.passions = [
             "Medical AI & Healthcare Innovation",
@@ -124,19 +124,6 @@ class AIResearcher:
 | 🧠 **Neural Architecture Research** | Experimenting with custom architectures and transfer learning | PyTorch, Transformers, Hugging Face |
 | 📚 **RAG Knowledge System** | Advanced retrieval-augmented generation for knowledge management | LangChain, Vector DB, LLMs |
 | 🔄 **MLOps Pipeline** | End-to-end ML pipeline with automated training and deployment | Docker, Kubernetes, MLflow |
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ycmmn&show_icons=true&theme=cobalt&hide_border=true&bg_color=E0F7FF&title_color=0080FF&icon_color=00BFFF&text_color=0066CC" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ycmmn&theme=cobalt&hide_border=true&background=E0F7FF&ring=0080FF&fire=00BFFF&currStreakLabel=1E90FF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycmmn&layout=compact&theme=cobalt&hide_border=true&bg_color=E0F7FF&title_color=0080FF&text_color=0066CC" />
 
 </div>
 
