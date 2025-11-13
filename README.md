@@ -95,7 +95,9 @@ class AIResearcher:
 | 📚 **RAG Knowledge System** | Advanced retrieval-augmented generation | LangChain • Vector DB • LLMs • Embeddings | 🟡 Research |
 | 🔄 **MLOps Pipeline** | End-to-end ML with automated deployment | Docker • Kubernetes • MLflow • CI/CD |🟡 In Progress |
 
-
+<div
+  
+---
 
 <div align="center">
 
