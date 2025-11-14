@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=AI+Researcher+%26+Deep+Learning+Engineer;Building+Intelligent+Medical+AI+Systems;Transforming+Healthcare+with+Neural+Networks;Production+ML+%7C+MLOps+%7C+Computer+Vision)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=14,20,23,26,30&text=AI%20Research%20%26%20Innovation&fontSize=40&fontAlignY=35&animation=twinkling&desc=Deep%20Learning%20•%20Medical%20AI%20•%20Neural%20Networks&descAlignY=55&descSize=18" />
-
 ### 🎓 Computer Engineering • 🔬 AI Researcher • 🏥 Medical AI Specialist
 
 <p align="center">
@@ -104,9 +102,5 @@ class AIResearcher:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=14,20,23,26,30&section=footer&animation=twinkling" />
 
 ### ⚡ "Building the future of AI, one neural network at a time" ⚡
-
-**Made with 💙 by Yasa | Powered by AI Research & Innovation**
-
-![](https://komarev.com/ghpvc/?username=ycmmn&color=00BFFF&style=for-the-badge&label=Total+Profile+Views)
 
 </div>
