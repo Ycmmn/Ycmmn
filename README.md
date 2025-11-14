@@ -16,8 +16,6 @@
 [![Email](https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yasa.aidv@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-87CEEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ycmmn)
 
-![](https://komarev.com/ghpvc/?username=ycmmn&color=00BFFF&style=for-the-badge&label=Profile+Views)
-
 </div>
 
 ---
